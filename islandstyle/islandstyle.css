@@ -5,7 +5,7 @@ body {
   height: 100%;
 }
 header {
-    background-color:#9BE0FF;
+    background-color:blue;
     padding:5px;
     text-align: center;
     border: #0009E8 solid 5px;
@@ -16,9 +16,6 @@ header {
 nav {
      float: left;
      width: 100%;
- }
- nav ul {
-     list-style-type: none;
  }
  nav li {
      float: left;
